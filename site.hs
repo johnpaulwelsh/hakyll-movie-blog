@@ -2,8 +2,8 @@
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
 import           Hakyll
-
-
+import           Data.Time.Format
+import           Data.Time.Clock
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
@@ -64,7 +64,15 @@ main = hakyll $ do
 postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
+    watchedOnDateCtx `mappend`
     defaultContext
 
--- field :: String -> (Item a -> Compiler String) -> Context a
--- field "watched-on" $ \item -> return (itemBody item) :: Context String
+-- maybe takes a string default, a function (partially applied), and a Maybe.
+-- The Maybe is the final parameter to the formatTime function, that's why we
+-- can partially apply it.
+watchedOnDateCtx :: Context a
+watchedOnDateCtx = field "watched-on-date" $ \item -> do
+  metadata <- getMetadata (itemIdentifier item)
+  return $ maybe "unknown date" (formatTime defaultTimeLocale "%B %e, %Y") $ do
+    dateString <- lookupString "watched-on-date" metadata
+    parseTimeM True defaultTimeLocale "%Y-%-m-%-d" dateString :: Maybe UTCTime
