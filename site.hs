@@ -65,3 +65,6 @@ postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
     defaultContext
+
+-- field :: String -> (Item a -> Compiler String) -> Context a
+-- field "watched-on" $ \item -> return (itemBody item) :: Context String

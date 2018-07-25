@@ -1,6 +1,7 @@
 ---
 title: Annihilation
 date: 2018-07-23
+watched-on: 2018-07-17
 ---
 
 I read the books first (the whole trilogy) and I loved them, so I was pretty surprised to see how different the movie is after establishing the basic premise of "Area X, team of women scientists go in at behest of government agency, weird stuff happens." I usually don’t think it’s fair to directly compare plot points between books and their movie adaptations, but in this case all the things that changed for the movie were universally inferior.
