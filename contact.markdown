@@ -2,4 +2,4 @@
 title: Contact
 ---
 
-Email: wearing2raincoats@gmail.com
+Email: <a href=mailto:wearing2raincoats@gmail.com>wearing2raincoats@gmail.com</a>
