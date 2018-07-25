@@ -1,0 +1,288 @@
+
+==================== FINAL INTERFACE ====================
+2018-07-24 22:46:09.400881 UTC
+
+interface main:Main 8043
+  interface hash: 5d4fe7fcce84e5a90d02debcf32b0b89
+  ABI hash: 39ad57ed6be8d1b9c2af66a7e5f2a1d0
+  export-list hash: 19f2c75e0e98046171d89cc91853325b
+  orphan hash: 693e9af84d3dfcc71e640e005bdc5e2e
+  flag hash: bab5ff0e11645dcbb41139739cde299f
+  opt_hash: 14e536840aca4e889cad654e6f9b79c1
+  hpc_hash: 93b885adfe0da089cdf634904fd59f71
+  sig of: Nothing
+  used TH splices: False
+  where
+exports:
+  Main.main
+module dependencies:
+package dependencies: Glob-0.9.2 HTTP-4000.3.12 SHA-1.6.4.4
+                      StateVar-1.1.1.0 aeson-1.3.1.1 aeson-pretty-0.8.7
+                      ansi-terminal-0.8.0.4 ansi-wl-pprint-0.6.8.2 appar-0.1.4
+                      array-0.5.2.0 asn1-encoding-0.9.5 asn1-parse-0.9.4 asn1-types-0.3.2
+                      async-2.2.1 attoparsec-0.13.2.2 auto-update-0.1.4 base-4.11.1.0
+                      base-compat-0.10.4 base64-bytestring-1.0.0.1 basement-0.0.8
+                      binary-0.8.5.1 blaze-builder-0.4.1.0 blaze-html-0.9.1.1
+                      blaze-markup-0.8.2.1 bsb-http-chunked-0.0.0.2 byteorder-1.0.4
+                      bytestring-0.10.8.2 case-insensitive-1.2.0.11 cereal-0.5.5.0
+                      cmark-gfm-0.1.4 colour-2.3.4 conduit-1.3.0.3 conduit-extra-1.3.0
+                      connection-0.2.8 containers-0.5.11.0 contravariant-1.4.1
+                      cookie-0.4.4 cryptohash-0.11.9 cryptonite-0.25 data-default-0.7.1.1
+                      data-default-class-0.1.2.0 data-default-instances-containers-0.0.1
+                      data-default-instances-dlist-0.0.1
+                      data-default-instances-old-locale-0.0.1 deepseq-1.4.3.0
+                      digest-0.0.1.2 directory-1.3.1.5 dlist-0.8.0.4 doctemplates-0.2.2.1
+                      exceptions-0.10.0 file-embed-0.0.10.1 filepath-1.4.2
+                      fsnotify-0.3.0.1 ghc-boot-th-8.4.3 ghc-prim-0.5.2.0
+                      haddock-library-1.5.0.1 haddock-library-1.5.0.1 hakyll-4.12.3.0
+                      hashable-1.2.7.0 hfsevents-0.1.6 hourglass-0.2.11
+                      hs-bibutils-6.6.0.0 hslua-0.9.5.2 hslua-module-text-0.1.2.1
+                      http-client-0.5.13.1 http-client-tls-0.3.5.3 http-conduit-2.3.2
+                      http-date-0.0.7 http-types-0.12.1 http2-1.6.3 hxt-9.3.1.16
+                      hxt-charproperties-9.2.0.1 hxt-regex-xmlschema-9.2.0.3
+                      hxt-unicode-9.0.2.4 integer-gmp-1.0.2.0 integer-logarithms-1.0.2.1
+                      iproute-1.7.5 lrucache-1.2.0.0 memory-0.14.16 mime-types-0.1.0.8
+                      mono-traversable-1.0.8.1 mtl-2.2.2 network-2.6.3.6
+                      network-uri-2.6.1.0 old-locale-1.0.0.7
+                      optparse-applicative-0.14.2.0 pandoc-2.2.1 pandoc-citeproc-0.14.3.1
+                      pandoc-types-1.17.5.1 parsec-3.1.13.0 pem-0.2.4 pretty-1.1.3.6
+                      primitive-0.6.3.0 process-1.6.3.0 psqueues-0.2.7.0 random-1.1
+                      regex-base-0.93.2 regex-pcre-builtin-0.94.4.8.8.35
+                      regex-tdfa-1.2.3.1 resourcet-1.2.1 rfc5051-0.1.0.3 safe-0.3.17
+                      scientific-0.3.6.2 setenv-0.1.1.3 simple-sendfile-0.2.27
+                      skylighting-0.7.2 skylighting-core-0.7.2 socks-0.5.6 split-0.2.3.3
+                      stm-2.4.5.0 streaming-commons-0.2.1.0 syb-0.7 tagged-0.8.5
+                      tagsoup-0.14.6 template-haskell-2.13.0.0 temporary-1.3
+                      texmath-0.11.0.1 text-1.2.3.0 th-abstraction-0.2.8.0 time-1.8.0.2
+                      time-locale-compat-0.1.1.4 tls-1.4.1 transformers-0.5.5.0
+                      unix-2.7.2.2 unix-compat-0.5.0.1 unliftio-core-0.1.1.0
+                      unordered-containers-0.2.9.0 utf8-string-1.0.1.1 uuid-types-1.0.3
+                      vault-0.3.1.1 vector-0.12.0.1 vector-algorithms-0.7.0.1 wai-3.2.1.2
+                      wai-app-static-3.1.6.2 warp-3.2.23 word8-0.1.3 x509-1.7.3
+                      x509-store-1.6.6 x509-system-1.6.6 x509-validation-1.6.10
+                      xml-1.3.14 xml-conduit-1.8.0 xml-types-0.3.6 yaml-0.8.32
+                      zip-archive-0.3.3 zlib-0.6.2
+orphans: hakyll-4.12.3.0:Hakyll.Web.Pandoc.Binary
+         haddock-library-1.5.0.1:Data.Attoparsec.ByteString.Char8
+         pandoc-2.2.1:Text.Pandoc.Lua.StackInstances
+         hslua-0.9.5.2:Foreign.Lua.Types.Error
+         http-client-0.5.13.1:Network.HTTP.Client.Request
+         network-2.6.3.6:Network.Socket
+         hxt-9.3.1.16:Data.Tree.NTree.Zipper.TypeDefs
+         regex-pcre-builtin-0.94.4.8.8.35:Text.Regex.PCRE.ByteString
+         colour-2.3.4:Data.Colour syb-0.7:Data.Generics.Instances
+         data-default-instances-containers-0.0.1:Data.Default.Instances.Containers
+         data-default-instances-dlist-0.0.1:Data.Default.Instances.DList
+         data-default-instances-old-locale-0.0.1:Data.Default.Instances.OldLocale
+         attoparsec-0.13.2.2:Data.Attoparsec.ByteString.Char8
+         vector-0.12.0.1:Data.Vector.Unboxed
+         attoparsec-0.13.2.2:Data.Attoparsec.Text.Internal
+         vector-0.12.0.1:Data.Vector.Fusion.Bundle
+         hashable-1.2.7.0:Data.Hashable.Generic
+         hakyll-4.12.3.0:Hakyll.Core.Identifier.Pattern
+         basement-0.0.8:Basement.UArray.Base basement-0.0.8:Basement.Block
+         stm-2.4.5.0:Control.Monad.STM time-1.8.0.2:Data.Time.Format.Parse
+         time-1.8.0.2:Data.Time.LocalTime.Internal.ZonedTime
+         time-1.8.0.2:Data.Time.LocalTime.Internal.LocalTime
+         time-1.8.0.2:Data.Time.Calendar.Gregorian
+         regex-tdfa-1.2.3.1:Text.Regex.TDFA.ByteString
+         regex-tdfa-1.2.3.1:Text.Regex.TDFA.ByteString.Lazy
+         regex-tdfa-1.2.3.1:Text.Regex.TDFA.Sequence
+         regex-tdfa-1.2.3.1:Text.Regex.TDFA.String
+         regex-base-0.93.2:Text.Regex.Base.Context
+         text-1.2.3.0:Data.Text.Lazy text-1.2.3.0:Data.Text
+         binary-0.8.5.1:Data.Binary.Generic
+         bytestring-0.10.8.2:Data.ByteString.Builder
+         text-1.2.3.0:Data.Text.Show
+         transformers-0.5.5.0:Control.Monad.Trans.Error
+         base-4.11.1.0:GHC.Float base-4.11.1.0:GHC.Base
+family instance modules: aeson-1.3.1.1:Data.Aeson.Types.Internal
+                         attoparsec-0.13.2.2:Data.Attoparsec.Internal.Types
+                         base-4.11.1.0:Control.Applicative base-4.11.1.0:Data.Complex
+                         base-4.11.1.0:Data.Functor.Compose base-4.11.1.0:Data.Functor.Const
+                         base-4.11.1.0:Data.Functor.Identity
+                         base-4.11.1.0:Data.Functor.Product base-4.11.1.0:Data.Functor.Sum
+                         base-4.11.1.0:Data.Monoid base-4.11.1.0:Data.Semigroup
+                         base-4.11.1.0:Data.Semigroup.Internal base-4.11.1.0:Data.Version
+                         base-4.11.1.0:Data.Void base-4.11.1.0:GHC.Exts
+                         base-4.11.1.0:GHC.Generics base-4.11.1.0:GHC.IO.Exception
+                         basement-0.0.8:Basement.Block.Base basement-0.0.8:Basement.Monad
+                         basement-0.0.8:Basement.MutableBuilder basement-0.0.8:Basement.Nat
+                         basement-0.0.8:Basement.NonEmpty
+                         basement-0.0.8:Basement.Numerical.Subtractive
+                         basement-0.0.8:Basement.PrimType basement-0.0.8:Basement.String
+                         basement-0.0.8:Basement.String.Encoding.ASCII7
+                         basement-0.0.8:Basement.String.Encoding.ISO_8859_1
+                         basement-0.0.8:Basement.String.Encoding.UTF16
+                         basement-0.0.8:Basement.String.Encoding.UTF32
+                         basement-0.0.8:Basement.Types.OffsetSize
+                         basement-0.0.8:Basement.UArray.Base
+                         basement-0.0.8:Basement.UTF8.Base cmark-gfm-0.1.4:CMarkGFM
+                         conduit-1.3.0.3:Data.Conduit.Internal.Conduit
+                         conduit-1.3.0.3:Data.Conduit.Internal.Pipe
+                         containers-0.5.11.0:Data.IntMap.Internal
+                         containers-0.5.11.0:Data.IntSet.Internal
+                         containers-0.5.11.0:Data.Map.Internal
+                         containers-0.5.11.0:Data.Sequence.Internal
+                         containers-0.5.11.0:Data.Set.Internal containers-0.5.11.0:Data.Tree
+                         cryptonite-0.25:Crypto.ECC cryptonite-0.25:Crypto.Error.Types
+                         cryptonite-0.25:Crypto.Hash.Blake2
+                         cryptonite-0.25:Crypto.Hash.Blake2b
+                         cryptonite-0.25:Crypto.Hash.Blake2bp
+                         cryptonite-0.25:Crypto.Hash.Blake2s
+                         cryptonite-0.25:Crypto.Hash.Blake2sp
+                         cryptonite-0.25:Crypto.Hash.Keccak cryptonite-0.25:Crypto.Hash.MD2
+                         cryptonite-0.25:Crypto.Hash.MD4 cryptonite-0.25:Crypto.Hash.MD5
+                         cryptonite-0.25:Crypto.Hash.RIPEMD160
+                         cryptonite-0.25:Crypto.Hash.SHA1 cryptonite-0.25:Crypto.Hash.SHA224
+                         cryptonite-0.25:Crypto.Hash.SHA256 cryptonite-0.25:Crypto.Hash.SHA3
+                         cryptonite-0.25:Crypto.Hash.SHA384
+                         cryptonite-0.25:Crypto.Hash.SHA512
+                         cryptonite-0.25:Crypto.Hash.SHA512t
+                         cryptonite-0.25:Crypto.Hash.SHAKE
+                         cryptonite-0.25:Crypto.Hash.Skein256
+                         cryptonite-0.25:Crypto.Hash.Skein512
+                         cryptonite-0.25:Crypto.Hash.Tiger
+                         cryptonite-0.25:Crypto.Hash.Whirlpool dlist-0.8.0.4:Data.DList
+                         ghc-boot-th-8.4.3:GHC.ForeignSrcLang.Type
+                         ghc-boot-th-8.4.3:GHC.LanguageExtensions.Type
+                         haddock-library-1.5.0.1:Data.Attoparsec.Internal.Types
+                         http-client-0.5.13.1:Network.HTTP.Client iproute-1.7.5:Data.IP.Addr
+                         iproute-1.7.5:Data.IP.Range
+                         mono-traversable-1.0.8.1:Data.MonoTraversable
+                         mono-traversable-1.0.8.1:Data.NonNull
+                         mono-traversable-1.0.8.1:Data.Sequences
+                         network-uri-2.6.1.0:Network.URI pandoc-2.2.1:Text.Pandoc.Error
+                         pandoc-2.2.1:Text.Pandoc.Extensions
+                         pandoc-2.2.1:Text.Pandoc.Logging pandoc-2.2.1:Text.Pandoc.Options
+                         pandoc-2.2.1:Text.Pandoc.Translations
+                         pandoc-citeproc-0.14.3.1:Text.CSL.Reference
+                         pandoc-citeproc-0.14.3.1:Text.CSL.Style
+                         pandoc-types-1.17.5.1:Text.Pandoc.Builder
+                         pandoc-types-1.17.5.1:Text.Pandoc.Definition
+                         pretty-1.1.3.6:Text.PrettyPrint.Annotated.HughesPJ
+                         pretty-1.1.3.6:Text.PrettyPrint.HughesPJ
+                         primitive-0.6.3.0:Control.Monad.Primitive
+                         primitive-0.6.3.0:Data.Primitive.Array
+                         primitive-0.6.3.0:Data.Primitive.ByteArray
+                         resourcet-1.2.1:Control.Monad.Trans.Resource.Internal
+                         skylighting-core-0.7.2:Skylighting.Regex
+                         skylighting-core-0.7.2:Skylighting.Types tagged-0.8.5:Data.Tagged
+                         template-haskell-2.13.0.0:Language.Haskell.TH.Syntax
+                         text-1.2.3.0:Data.Text text-1.2.3.0:Data.Text.Lazy
+                         th-abstraction-0.2.8.0:Language.Haskell.TH.Datatype
+                         unordered-containers-0.2.9.0:Data.HashMap.Base
+                         unordered-containers-0.2.9.0:Data.HashSet
+                         uuid-types-1.0.3:Data.UUID.Types.Internal
+                         uuid-types-1.0.3:Data.UUID.Types.Internal.Builder
+                         vector-0.12.0.1:Data.Vector vector-0.12.0.1:Data.Vector.Primitive
+                         vector-0.12.0.1:Data.Vector.Storable
+                         vector-0.12.0.1:Data.Vector.Unboxed
+                         vector-0.12.0.1:Data.Vector.Unboxed.Base
+                         xml-types-0.3.6:Data.XML.Types
+                         zlib-0.6.2:Codec.Compression.Zlib.Stream
+import  -/  base-4.11.1.0:Data.Monoid c40cd435d79b84293ce5503253ee6d44
+import  -/  base-4.11.1.0:GHC.Base 604111500e81281298777e721c75643b
+import  -/  base-4.11.1.0:Prelude 0750c25585e2b797cd78291d423d39dd
+import  -/  ghc-prim-0.5.2.0:GHC.Types d9b3023de7feae4a5308d643da5543f7
+import  -/  hakyll-4.12.3.0:Hakyll de85bb5b37fb53e47dd67a8f7d51a758
+import  -/  hakyll-4.12.3.0:Hakyll.Core.Compiler 25c68f98a25fe3ea029f5a6a3c2ec4bf
+import  -/  hakyll-4.12.3.0:Hakyll.Core.Compiler.Require 897401e7ff48137f7eae35b7bde41f8a
+import  -/  hakyll-4.12.3.0:Hakyll.Core.File ed25967d7c448f5f749fd1b3a57908d1
+import  -/  hakyll-4.12.3.0:Hakyll.Core.Identifier.Pattern be041082614a8716efa4bcf6c70ff119
+import  -/  hakyll-4.12.3.0:Hakyll.Core.Routes 7c74b0f1d9bcbdf04f0a7a62abd828ac
+import  -/  hakyll-4.12.3.0:Hakyll.Core.Rules ed2803fb965668be78e66f687bc75563
+import  -/  hakyll-4.12.3.0:Hakyll.Main ce5331757879a421eea5f0f8d4236593
+import  -/  hakyll-4.12.3.0:Hakyll.Web.CompressCss b043156d9df4066501452ec14d092656
+import  -/  hakyll-4.12.3.0:Hakyll.Web.Html.RelativizeUrls c88cb16e90087d06a8ac718ace46a34a
+import  -/  hakyll-4.12.3.0:Hakyll.Web.Pandoc de16ae746c7981c9359d869a5cac8b5b
+import  -/  hakyll-4.12.3.0:Hakyll.Web.Template.Context 95fb6c107b8c54b5fdc9bc1a837352dc
+import  -/  hakyll-4.12.3.0:Hakyll.Web.Template.Internal dc484fd42ce231ce85e8238374ae7fc1
+import  -/  hakyll-4.12.3.0:Hakyll.Web.Template.List 5b7d79693d751eebfa281c77d4c073f6
+be86c9d078d3acbf19ba91fe74a24273
+  $trModule :: GHC.Types.Module
+  {- HasNoCafRefs, Strictness: m,
+     Unfolding: (GHC.Types.Module Main.$trModule3 Main.$trModule1) -}
+b09d86f2c49dd5176b544d8d13ddb6c5
+  $trModule1 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS Main.$trModule2) -}
+e5875966b74dad2d29772660b8a75e33
+  $trModule2 :: GHC.Prim.Addr#
+  {- HasNoCafRefs, Unfolding: ("Main"#) -}
+23b03bd7d075a00f5ad1ee10e6add7b8
+  $trModule3 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS Main.$trModule4) -}
+d026be77cb9ced20e35a61514e0458aa
+  $trModule4 :: GHC.Prim.Addr#
+  {- HasNoCafRefs, Unfolding: ("main"#) -}
+074167d61e4044333df9cd9ddde803ce
+  $wmain ::
+    Hakyll.Core.Rules.Internal.RulesRead
+    -> GHC.Base.Maybe Hakyll.Core.Routes.Routes
+    -> GHC.Base.Maybe
+         (Hakyll.Core.Compiler.Internal.Compiler
+            Hakyll.Core.Item.SomeItem.SomeItem)
+    -> GHC.Prim.State# GHC.Prim.RealWorld
+    -> (# GHC.Prim.State# GHC.Prim.RealWorld,
+          ((), Hakyll.Core.Rules.Internal.RulesState,
+           Hakyll.Core.Rules.Internal.RuleSet) #)
+  {- Arity: 4, Strictness: <L,U(U,U,U)><L,U><S,1*U><S,U>,
+     Inline: [0] -}
+d59a215158de2198b62be9f0f2cf2b6b
+  main :: GHC.Types.IO ()
+  {- Arity: 1,
+     Unfolding: InlineRule (0, True, True)
+                Main.main1 `cast` (Sym (GHC.Types.N:IO[0] <()>_R)) -}
+0f8fbfa9231187a3d2132356662d84d2
+  main1 ::
+    GHC.Prim.State# GHC.Prim.RealWorld
+    -> (# GHC.Prim.State# GHC.Prim.RealWorld, () #)
+  {- Arity: 1,
+     Unfolding: (Hakyll.Main.hakyll1
+                   @ ()
+                   Main.main2
+                     `cast`
+                   ((<Hakyll.Core.Rules.Internal.RulesRead>_R
+                     ->_R <Hakyll.Core.Rules.Internal.RulesState>_R
+                     ->_R Sym (GHC.Types.N:IO[0]
+                                   <((), Hakyll.Core.Rules.Internal.RulesState,
+                                     Hakyll.Core.Rules.Internal.RuleSet)>_R)) ; (Sym (Control.Monad.Trans.RWS.Lazy.N:RWST[0]
+                                                                                          <Hakyll.Core.Rules.Internal.RulesRead>_R
+                                                                                          <Hakyll.Core.Rules.Internal.RuleSet>_N
+                                                                                          <Hakyll.Core.Rules.Internal.RulesState>_N
+                                                                                          <GHC.Types.IO>_R
+                                                                                          <()>_N) ; Sym (Hakyll.Core.Rules.Internal.N:Rules[0]) <()>_N))) -}
+f0166659a104612d143df23409b51c70
+  main2 ::
+    Hakyll.Core.Rules.Internal.RulesRead
+    -> Hakyll.Core.Rules.Internal.RulesState
+    -> GHC.Prim.State# GHC.Prim.RealWorld
+    -> (# GHC.Prim.State# GHC.Prim.RealWorld,
+          ((), Hakyll.Core.Rules.Internal.RulesState,
+           Hakyll.Core.Rules.Internal.RuleSet) #)
+  {- Arity: 3, Strictness: <L,U(U,U,U)><S(LS),1*U(U,1*U)><S,U>,
+     Inline: [0],
+     Unfolding: InlineRule (3, True, False)
+                (\ (w4 :: Hakyll.Core.Rules.Internal.RulesRead)
+                   (w5 :: Hakyll.Core.Rules.Internal.RulesState)
+                   (w6 :: GHC.Prim.State# GHC.Prim.RealWorld) ->
+                 case w5 of ww { Hakyll.Core.Rules.Internal.RulesState ww1 ww2 ->
+                 Main.$wmain w4 ww1 ww2 w6 }) -}
+75218246b0552c47570cdcd3892a9a45
+  main3 ::
+    GHC.Prim.State# GHC.Prim.RealWorld
+    -> (# GHC.Prim.State# GHC.Prim.RealWorld, () #)
+  {- Arity: 1,
+     Unfolding: (GHC.TopHandler.runMainIO1
+                   @ ()
+                   Main.main1 `cast` (Sym (GHC.Types.N:IO[0] <()>_R))) -}
+vectorised variables:
+vectorised tycons:
+vectorised reused tycons:
+parallel variables:
+parallel tycons:
+trusted: none
+require own pkg trusted: False
+
