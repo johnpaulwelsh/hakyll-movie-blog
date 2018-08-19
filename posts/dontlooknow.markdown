@@ -13,10 +13,12 @@ Next is the camerawork - I couldn't wrap my head around it. Scenes that didn't s
 And that leads into my biggest complaint about Don't Look Now. There were just so many pointless and vague scenes that didn't really add up to either a cohesive story or a really effective mood of unease. For every time something was being legitimately creepy or mysterious, there was a scene that completely didn't compute with everything else going on, like when the blind woman and her sister are cackling in their room and no one is there. Or when she gropes her breasts and moans during the "seance." Or when they are weirdly insistent on the husband and wife taking a shot of whiskey whenever they enter the hotel room they stay in. This applies to other characters too. For example, why was the police chief act so suspicious when he was talking to the husband if he didn't end up mattering to the story at all?
 
 What is the point of this story? It seemed like the movie would address themes of obsession or grief after the death of a child, or some other kind of metaphorical theme that could stand next to all the spooky stuff. But the wife ends up being fine after like 20 minutes of talking to the creepy sisters, and then the husband starts hallucinating. And for what payoff? The movie could pretty much be summarized as:
-* Sad couple go to Venice
-* Wife meets a psychic who can see their dead daughter
-* Psychic warns wife that her husband is in danger
-* Husband dies to random act of dwarf-violence
+
+*    Sad couple go to Venice
+*    Wife meets a psychic who can see their dead daughter
+*    Psychic warns wife that her husband is in danger
+*    Husband dies to random act of dwarf-violence
+
 Everything in between is needless ambiguity and shots of the characters walking around Venice.
 
 Some of the visuals were really good, I will admit. And the general mood of the back alleys in Venice were quite menacing, almost reaching the point of "the setting being a character." I've never really bought into claims such as that, since it usually means too much attention is drawn to meaningless mood shots of the filming location. But in this movie it more or less worked - Venice seems old, creepy, and somewhat menacing. The smoky atmosphere in the climactic scene at the end was beautifully shot and I wish more was done with it. However, I do feel like the little person in the red trenchcoat at the very end would have been a better ending to a different movie - in this one it feels like a cop-out.
