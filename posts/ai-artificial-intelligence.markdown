@@ -1,6 +1,6 @@
 ---
-title: Artificial Intelligence: AI
-published: 2018-08-25
+title: "Artificial Intelligence: AI"
+published: 2018-08-26
 watched-on-date: 2018-08-23
 ---
 
