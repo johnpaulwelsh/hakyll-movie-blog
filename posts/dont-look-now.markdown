@@ -32,3 +32,5 @@ Some of the visuals were really good, I will admit. And the general mood of the 
 Also, the sex scene was one of the only things I knew about the movie going in, and honestly it doesn't belong in the film at all now that I've seen it. I think the opening scenes made me connect to the characters and believe their relationship more effectively than the lovemaking did, so it really felt superfluous. Sort of like when a "classic" action movie on TV is actually a complete throwaway, except for that *one scene* that nobody stopped talking about ever since it came out.
 
 _Don't Look Now_ is certainly not the worst movie I've ever seen, but it felt like a second-rate Twilight Zone story stretched over two hours. If this is a genre classic, I don't understand why.
+
+4/10

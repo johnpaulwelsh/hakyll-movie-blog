@@ -13,3 +13,5 @@ The special effects were really amazing, especially considering the year of rele
 All of this could have fallen apart under its own weight, if not for Spielberg's ability to inject sentimentality, adventure, and thoughtfulness into every scene he shot. The story's cynicism might have been a better fit for Stanley Kubrick's sensibilities, but I think Spielberg really knocked it out of the park with this one and I think he's the only director who could have done it.
 
 I know these thoughts are a little more disjointed than they are in some of my other posts. But that's because this movie is really hard to talk about without just pouring over every scene and getting stuck on long tangents about the moral dilemmas of advanced robotics, the future of human society, and the meaning of love. _AI_ has a lot to say, and in the end I'm astounded that it was able to say all of it without becoming a steaming pile of crap.
+
+9/10

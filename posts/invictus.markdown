@@ -11,3 +11,5 @@ Other than that, there's nothing big to complain about. The Mandela scenes were 
 Side note, Amazon Prime Instant Video doesn't seem to have an option for subtitles, so there's a handful of scenes of dialogue I missed in the first half hour. Note to self: look up how to enable subs before watching another movie where the accents are unfamiliar.
 
 Second side note, there's one point where a pop song is playing while Mandela descends in a helicopter and oh my goodness, the lyrics and singing on that song were cringe city. I started laughing out loud.
+
+6/10

@@ -21,3 +21,5 @@ The good news is, while this war raged in my head I was also enjoying the movie 
 I will admit that some of the plot elements felt like they drifted apart from each other, maybe as a result of how long each scene goes on for. By the time the bad guy starts meeting the protagonists face-to-face I had forgotten about all the other intrusions he had made in the earlier parts of the story. So in a way the stress of the final act was dampered a little for me.
 
 Overall I was pretty impressed with _Blade Runner 2049_. When I first heard mention of a 2.5-hour sequel to a well-respected sci-fi film from almost 40 years ago, I was convinced it could only be an unmitigated disaster. But after watching it I think it's a fine followup to the _Blade Runner_, even if it isn't the earth-shattering cerebral spectacle that it seemed like it could have been.
+
+7/10

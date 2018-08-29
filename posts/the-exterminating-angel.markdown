@@ -12,4 +12,6 @@ I love it when a crazy plot concept is carried along to its farthest logical con
 
 There were definitely some parts that dragged a little, and I think overall the movie could have been about 10 minutes shorter without losing any of the punch. Also, it was certainly hard at times to keep track of so many characters and how they related to the other people (made harder by the film being in a foreign language).
 
-Before now I only had experience with David Lynch's particularly American blend of surrealism, and I was worried that Luis Bunuel's surrealism would be too artsy, or too obscurely satirical, or too "random" to work with me. I'm very happy to say I was wrong - if Bunuel's other films are as fully-realized as _The Exterminating Angel_ is, then he might become one of my new favorite directors.
+Before now I only had experience with David Lynch's particularly American blend of surrealism, and I was worried that Luis Buñuel's surrealism would be too artsy, or too obscurely satirical, or too "random" to work with me. I'm very happy to say I was wrong - if Buñuel's other films are as fully-realized as _The Exterminating Angel_ is, then he might become one of my new favorite directors.
+
+9/10
