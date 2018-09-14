@@ -14,16 +14,7 @@ I guess my biggest complaint about _Don't Look Now_ is that there were a lot of 
 
 This applies to other characters too. For example, why was the police chief act so suspicious when he was talking to the husband if he didn't end up mattering to the story at all?
 
-It seemed like the movie would address themes of obsession or grief after the death of a child, or some other kind of metaphorical theme that could stand next to all the spooky stuff. But the wife ends up being fine after like 20 minutes of talking to the sisters,
-
-The movie could pretty much be summarized as:
-
-*    Sad couple go to Venice
-*    Wife meets a psychic who can see their dead daughter
-*    Psychic warns wife that her husband is in danger
-*    Husband dies to random act of dwarf-violence
-
-Everything in between is needless ambiguity and shots of the characters walking around Venice.
+It seemed like the movie would address themes of obsession or grief after the death of a child, or some other kind of metaphorical theme that could stand next to all the spooky stuff. But the wife ends up being fine after like 20 minutes of talking to the sisters and never seems to experience grief again, while the husband experiences hauntings that don't really seem to be related to the loss of his daughter. It all seems like a framing device that goes nowhere.
 
 After reading some more about the movie, it became clear that the dwarf was actually the serial killer that the Venice police were chasing in the background the whole time. Whether I missed that because I'm bad at making connections, or because the film failed to make me realize it, is a matter of debate I suppose.
 
