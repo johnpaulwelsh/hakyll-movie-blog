@@ -1,7 +1,6 @@
 ---
 title: Don't Look Now
-published: 2018-08-23
-watched-on-date: 2018-08-18
+published: 2018-08-18
 ---
 
 Wow, this movie was really frustrating in a lot of ways.

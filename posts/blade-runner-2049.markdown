@@ -1,7 +1,6 @@
 ---
 title: Blade Runner 2049
-published: 2018-07-24
-watched-on-date: 2018-06-09
+published: 2018-06-09
 ---
 
 The whole time I was watching this movie I was comparing elements of what I saw against the baseline that was set up in the first movie:

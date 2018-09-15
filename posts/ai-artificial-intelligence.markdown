@@ -1,7 +1,6 @@
 ---
 title: "Artificial Intelligence: AI"
-published: 2018-08-26
-watched-on-date: 2018-08-23
+published: 2018-08-23
 ---
 
 Here's what this movie is - a bunch of good screenplay ideas crammed into one big screenplay, which could have turned out terribly if not for Steven Spielberg being a genius director. The different elements of this film gave me a kind of emotional whiplash as it jumped back and forth between, but somehow I was mesmerized the entire time.

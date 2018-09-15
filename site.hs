@@ -64,8 +64,9 @@ main = hakyll $ do
 postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
-    watchedOnDateCtx `mappend`
     defaultContext
+
+-- watchedOnDateCtx `mappend`
 
 -- maybe takes a string default, a function (partially applied), and a Maybe.
 -- The Maybe is the final parameter to the formatTime function, that's why we

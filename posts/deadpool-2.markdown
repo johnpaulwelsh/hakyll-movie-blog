@@ -1,7 +1,6 @@
 ---
 title: Deadpool 2
-published: 2018-09-13
-watched-on-date: 2018-09-08
+published: 2018-09-08
 ---
 
 In some ways I liked it better than the first _Deadpool_, but it still didn't rise above the line of "pretty good" for me.

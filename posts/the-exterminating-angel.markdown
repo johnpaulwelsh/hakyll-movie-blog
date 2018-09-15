@@ -1,7 +1,6 @@
 ---
 title: The Exterminating Angel
-published: 2018-08-29
-watched-on-date: 2018-08-28
+published: 2018-08-28
 ---
 
 What an extraordinary movie.
