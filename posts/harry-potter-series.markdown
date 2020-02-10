@@ -97,8 +97,6 @@ The veil is kinda spooky in the movie but it felt much more important in the boo
 
 Why is there no music in the final fight scenes?????? It makes the death of Sirius and the Dumbledore/Voldemort showdowns so bland. When Harry fights back in his mind againdt Voldemort it's pretty good though.
 
-Tonks is criminally underutilized.
-
 7/10
 
 **6) _Half-Blood Prince_ (02.06.20)**
@@ -115,6 +113,20 @@ The reveal about the identity of the Half-Blood Prince is really underwhelming, 
 
 8/10
 
-**7) _Deathly Hallows Part 1_ (??)**
+**7) _Deathly Hallows Part 1_ (02.07.20)**
 
-**8) _Deathly Hallows Part 2_ (??)**
+It's so damn refreshing that this movie has almost no Hogwarts scenes. It really emphasizes the scope and scale of the danger they are in.
+
+Emma Watson has the prettiest crying face of all time.
+
+This installment ends at a really good spot.
+
+9/10
+
+**8) _Deathly Hallows Part 2_ (02.09.20)**
+
+There didn't seem to be much point in adding in all these doubts about Dumbledore's motives, if the payoff is simply "he knew more about things than we thought, also he conspired with Snape to do the right thing but was pretty casual about Harry's wellbeing throughout." I'm sure in the book there's more of a transition between Harry doubting Dumbledore and eventually deciding he's trustworthy.
+
+Everything starting with Snape's penseive memory all the way until the end is really excellent.
+
+8/10
