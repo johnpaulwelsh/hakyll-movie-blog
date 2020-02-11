@@ -1,6 +1,6 @@
 ---
 title: Harry Potter Series
-published: 2020-??-??
+published: 2020-02-09
 ---
 
 **1) _Sorcerer's Stone_ (01.30.20)**
@@ -47,7 +47,7 @@ The craziest establishing shots ever.
 
 Lupin is a great role.
 
-Camerawork is amazong when they go back in time, perfect framing and music too.
+Camerawork is amazing when they go back in time, perfect framing and music too.
 
 There are an awful lot of "random" happenings before they go back in time and actually explain why it happened (the rocks getting thrown through the window, the fake wolf call).
 
@@ -77,8 +77,6 @@ The Mad Eye Moody / Barty Crouch Jr. reveal is soooooooo implausible. How does C
 
 8/10
 
-https://www.imdb.com/find?q=harry%20potter&s=tt&ref_=fn_al_tt_mr
-
 **5) _Order of the Phoenix_ (02.05.20)**
 
 The pacing is really good in this one.
@@ -95,7 +93,7 @@ The showdown in the Department of Mysteries is kind of anticlimactic. Maybe beca
 
 The veil is kinda spooky in the movie but it felt much more important in the book.
 
-Why is there no music in the final fight scenes?????? It makes the death of Sirius and the Dumbledore/Voldemort showdowns so bland. When Harry fights back in his mind againdt Voldemort it's pretty good though.
+Why is there no music in the final fight scenes?????? It makes the death of Sirius and the Dumbledore/Voldemort showdowns so bland. When Harry fights back in his mind against Voldemort it's pretty good though.
 
 7/10
 
@@ -127,6 +125,6 @@ This installment ends at a really good spot.
 
 There didn't seem to be much point in adding in all these doubts about Dumbledore's motives, if the payoff is simply "he knew more about things than we thought, also he conspired with Snape to do the right thing but was pretty casual about Harry's wellbeing throughout." I'm sure in the book there's more of a transition between Harry doubting Dumbledore and eventually deciding he's trustworthy.
 
-Everything starting with Snape's penseive memory all the way until the end is really excellent.
+Everything starting with Snape's Pensieve memory all the way until the end is really excellent.
 
 8/10
