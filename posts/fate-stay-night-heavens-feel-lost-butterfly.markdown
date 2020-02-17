@@ -1,5 +1,5 @@
 ---
-title: "Fate/Stay Night: Heaven's Feel - II. Lost Butterfly"
+title: "Gekijouban Fate/Stay Night: Heaven's Feel - II. Lost Butterfly"
 published: 2019-03-14
 ---
 

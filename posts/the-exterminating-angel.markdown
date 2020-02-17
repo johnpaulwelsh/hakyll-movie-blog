@@ -1,5 +1,5 @@
 ---
-title: The Exterminating Angel
+title: El Ángel Exterminador (The Exterminating Angel)
 published: 2018-08-28
 ---
 
