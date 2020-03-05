@@ -1,5 +1,5 @@
 ---
-title: Jumanji: Welcome to the Jungle
+title: "Jumanji: Welcome to the Jungle"
 published: 2020-02-29
 ---
 
