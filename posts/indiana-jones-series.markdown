@@ -21,6 +21,8 @@ Willy is not nearly as annoying as I think she gets remembered as. I actually th
 
 In the end, you gotta admire this one for being super gross, and super scary, and super exciting all at once with almost no breaks in between. Even if by the end you feel exhausted.
 
+8/10
+
 **3) _The Last Crusade_ (07.26.20)**
 
 Sean Connery steals the show so hard.
