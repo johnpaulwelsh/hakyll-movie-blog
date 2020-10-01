@@ -11,8 +11,6 @@ There are some nice surprises which usually come from scenes dragging on a littl
 
 The gruesomeness is really just saved for the one killing, everything else was thankfully not interested in lingering on the gore for too long.
 
-I'm not sure if the story was made any better .
-
 I think I'll continue to watch any further entries in the Art the Clown Cinematic Universe (ACCU), but mostly because I like the idea of art more than I like any individual thing he's in. You gotta love that he listens to freako jazz in the truck, and honks his horn and rides a minibike at the least appropriate times.
 
 Also I'm still confused about the beginning scene. I thought they said it was a highway killing that the woman was involved in, but apparently the ending proves it occurred after the events of this movie. But in that case, what's the point in Vicky killing the interview host? It just kinda seems lazy to me.
