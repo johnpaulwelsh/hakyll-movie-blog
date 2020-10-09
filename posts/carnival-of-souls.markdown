@@ -29,4 +29,4 @@ Things I didn't like:
 
 I think somewhere in here, there's a real psychological statement to be made about the state of mind of a lonely woman who's not connected to anybody or anything.
 
-6/10
+7/10
