@@ -7,7 +7,7 @@ When a movie tries to tell a story "from the eyes of a child," the laziest way t
 
 Overall the movie was pretty good. The slow, methodical progression from normal life to Communist slave-labor was pretty upsetting, especially in hindsight as I began to remember how comparatively normal things looked in the early scenes.
 
-I think the movie could have done a better job of placing the events in their historical context. The phrase Kmher Rouge doesn't show up very often at all, just at the beginning and the end, and the other names that the Communists give themselves () are not familiar to me, so I briefly got confused about whether the radicalists were the same people I knew killed so many of their own people under that guy Pol Pot. I also didn't know anything about the Vietnamese involvement with Cambodia, so I wasn't sure if the Khmer propagandists were serious about their anti-Vietnamese sentiment, or if they were just hatemongering.
+I think the movie could have done a better job of placing the events in their historical context. The phrase Kmher Rouge doesn't show up very often at all, just at the beginning and the end, and the other names that the Communists give themselves are not familiar to me, so I briefly got confused about whether the radicals were the same people I knew killed so many of their own people under that guy Pol Pot. I also didn't know anything about the Vietnamese involvement with Cambodia, so I wasn't sure if the Khmer propagandists were serious about their anti-Vietnamese sentiment, or if they were just hatemongering.
 
 Also, small nitpick: it takes like 1.5 hours for them to kill the father, so it's not clear to me what series of events that was the "first" of.
 
