@@ -11,6 +11,10 @@ Robocop himself is pretty ridiculous. Lumbering around and speaking like a robot
 
 Every piece of satire was hilarious. I especially liked how the insane news broadcasts build the dystopian future world in such an efficient manner. The commercials felt like segments from _UHF_, especially the nuclear war board game. My favorite one is the car being called 6000 SUX and only getting 8.5 mpg.
 
+There are some pretty interesting technical details too, like how they show the transition-to-Robocop process entirely through Murphy's TV-screen eyesight as he's becoming a cyborg. That's the kind of touch that makes it clear that the director was not phoning it in on this movie.
+
+In general, the movie is pretty damn quotable. I could easily see this being one of those movies where some people out there have memorized entire scenes because of how great the dialogue is.
+
 And everybody is in this movie! Red from _That 70's Show_, Leonard Betts from _The X-Files_, and Albert and Leland from _Twin Peaks_!
 
 Fun fact: the violent crime rate in Detroit in 1987 was 2544.88 per 100,000. In 2019, it was 2053.05.
