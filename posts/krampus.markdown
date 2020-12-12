@@ -11,4 +11,4 @@ The stop motion flashback was a nice touch.
 
 The designs of Krampus and his monster helpers were all great. I was personally horrified by the jack-in-the-box with the unhinging jaw, I actually hated that deep down in my stomach.
 
-6/10
+7/10
