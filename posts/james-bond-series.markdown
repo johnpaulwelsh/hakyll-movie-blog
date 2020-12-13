@@ -1,5 +1,5 @@
 ---
-title: James Bond Series - Sean Connery
+title: James Bond Series
 published: 2020-11-27
 ---
 
@@ -26,3 +26,9 @@ This one goes above and beyond the previous two, and it fully deserves its iconi
 The only conceivable complaint I could have is that the final fight with Oddjob is a little light on the drama, but that's easily made up for by the atomic bomb waiting to go off behind them the whole time.
 
 10/10
+
+Thunderball
+
+You Only Live Twice
+
+On Her Majesty's Secret Service
