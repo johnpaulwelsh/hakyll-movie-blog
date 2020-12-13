@@ -19,6 +19,10 @@ Some parts are clearly unnecessary, like the gypsy clapper dance and the two gir
 
 8/10
 
-**3) _Goldfinger_ ()**
+**3) _Goldfinger_ (12.12.20)**
 
-??
+This one goes above and beyond the previous two, and it fully deserves its iconic status. Nearly every scene had me giggling with delight. This is pretty much everything I'd hope for a James Bond movie to be, and I honestly fear that I won't like any of the other Sean Connery films as much as this one.
+
+The only conceivable complaint I could have is that the final fight with Oddjob is a little light on the drama, but that's easily made up for by the atomic bomb waiting to go off behind them the whole time.
+
+10/10
