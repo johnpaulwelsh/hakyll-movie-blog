@@ -27,8 +27,31 @@ The only conceivable complaint I could have is that the final fight with Oddjob 
 
 10/10
 
-Thunderball
+**4) _Thunderball_ (12.13.20)**
+
+There isn't as much gadgetry as compared to the previous entries, and there's something a little dull regarding Bond's interactions with the other characters (even the women, surprisingly). The underwater fighting is the real draw here, and overall it's pretty thrilling, even if some of the scenes feel a bit sluggish and bring down the pace of the story due to underwater action being floaty by definition.
+
+Also what the heck happened to that nice guy who rescued Domino at the end? He jumped off the boat and just vanished.
+
+7/10
+
 
 You Only Live Twice
 
 On Her Majesty's Secret Service
+
+Diamonds are Forever
+
+Live and Let Die
+
+The Man with the Golden Gun
+
+The Spy Who Loved Me
+
+Moonraker
+
+For Your Eyes Only
+
+Octopussy
+
+Never Say Never Again
