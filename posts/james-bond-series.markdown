@@ -35,8 +35,11 @@ Also what the heck happened to that nice guy who rescued Domino at the end? He j
 
 7/10
 
+**5) _You Only Live Twice_ (01.01.21)**
 
-You Only Live Twice
+A big improvement over Thunderball, especially in terms of pacing and clarity of plot. The set pieces are spectacular and the gadgets are some of the funniest ones yet (shooting Bond out of a submarine missile hole, cigarette guns, and "Little Debbie"). Thank god they finally started using accurate foreign casts in this one.
+
+9/10
 
 On Her Majesty's Secret Service
 
