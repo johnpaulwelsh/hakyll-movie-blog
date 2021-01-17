@@ -41,20 +41,24 @@ A big improvement over Thunderball, especially in terms of pacing and clarity of
 
 9/10
 
-On Her Majesty's Secret Service
+**6) _On Her Majesty's Secret Service_ (01.16.21)**
 
-Diamonds are Forever
+Starts out a little dull, but slowly ramps up into one of the better movies so far in the series. The evil plan is ridiculous the way Goldfinger's was, and the action sequences are really spectacular. To be honest, the movie was nearly ruined by the needlessly cruel ending. Overall, Tracy is the best Bond girl so far, by being the most beautiful as well as the most competent.
 
-Live and Let Die
+8/10
 
-The Man with the Golden Gun
+**7) _Diamonds are Forever_ ()**
 
-The Spy Who Loved Me
+**8) _Live and Let Die_ ()**
 
-Moonraker
+**9) _The Man with the Golden Gun_ ()**
 
-For Your Eyes Only
+**10) _The Spy Who Loved Me_ ()**
 
-Octopussy
+**11) _Moonraker- ()**
 
-Never Say Never Again
+**12) _For Your Eyes Only_ ()**
+
+**13) _Octopussy_ ()**
+
+**14) _Never Say Never Again_ ()**
