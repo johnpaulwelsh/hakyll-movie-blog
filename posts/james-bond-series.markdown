@@ -45,9 +45,19 @@ A big improvement over Thunderball, especially in terms of pacing and clarity of
 
 Starts out a little dull, but slowly ramps up into one of the better movies so far in the series. The evil plan is ridiculous the way Goldfinger's was, and the action sequences are really spectacular. To be honest, the movie was nearly ruined by the needlessly cruel ending. Overall, Tracy is the best Bond girl so far, by being the most beautiful as well as the most competent.
 
+Whoever was the editor for this movie was on drugs, there are so many random jumpy cuts that it seems like they were covering up mistakes.
+
 8/10
 
-**7) _Diamonds are Forever_ ()**
+**7) _Diamonds are Forever_ (01.20.21)**
+
+I reacted to this one the same way I reacted to the fourth _Indiana Jones_ movie. It's totally ridiculous, and using one definition, it's sillier than a James Bond movie "should" be. However I think the only definition that matters is, was I entertained? In which case _Diamonds Are Forever_ is a great installment in the franchise.
+
+The plot almost moved too fast, given how many insane things they're able to cram in. And the Bond Girl this time around was a little too derpy, not as empowered or campy as the others have been. But otherwise it was a damn fun time.
+
+I especially enjoyed the car chase in Vegas, scaling the casino facade, and the absolutely idiotic dialogue they got some of these American actors to recite.
+
+8/10
 
 **8) _Live and Let Die_ ()**
 
@@ -55,7 +65,7 @@ Starts out a little dull, but slowly ramps up into one of the better movies so f
 
 **10) _The Spy Who Loved Me_ ()**
 
-**11) _Moonraker- ()**
+**11) _Moonraker_ ()**
 
 **12) _For Your Eyes Only_ ()**
 
