@@ -1,6 +1,6 @@
 ---
 title: James Bond Series
-published: 2020-11-27
+published: 2021-01-20
 ---
 
 **1) _Dr. No_ (11.27.20)**
@@ -58,17 +58,3 @@ The plot almost moved too fast, given how many insane things they're able to cra
 I especially enjoyed the car chase in Vegas, scaling the casino facade, and the absolutely idiotic dialogue they got some of these American actors to recite.
 
 8/10
-
-**8) _Live and Let Die_ ()**
-
-**9) _The Man with the Golden Gun_ ()**
-
-**10) _The Spy Who Loved Me_ ()**
-
-**11) _Moonraker_ ()**
-
-**12) _For Your Eyes Only_ ()**
-
-**13) _Octopussy_ ()**
-
-**14) _Never Say Never Again_ ()**
