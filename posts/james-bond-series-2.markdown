@@ -17,7 +17,13 @@ The _Live and Let Die_ musical cues throughout the film are probably the best us
 
 8/10
 
-**9) _The Man with the Golden Gun_ ()**
+**9) _The Man with the Golden Gun_ (02.20.21)**
+
+A lot of little things conspire to make _The Man with the Golden Gun_ my least favorite Bond movie so far. Bond is kind of a jerk, especially with his interactions with Goodnight. Goodnight herself is another ditzy companion, although she's probably not the dumbest one so far. It was totally unnecessary to bring back J.W. Fuckface from Louisiana, although I enjoyed his involvement in the car chase a lot more than his boat ride and elephant escapades.
+
+Not to say it was all bad. Christopher Lee is a great villain, the scenery was great, the action was well-choreographed and varied, and the silly spy stuff was very enjoyable (I just about lost my mind when the car attached to the plane and took off into the sky).
+
+6/10
 
 **10) _The Spy Who Loved Me_ ()**
 
