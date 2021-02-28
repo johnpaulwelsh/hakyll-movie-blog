@@ -25,7 +25,11 @@ Not to say it was all bad. Christopher Lee is a great villain, the scenery was g
 
 6/10
 
-**10) _The Spy Who Loved Me_ ()**
+**10) _The Spy Who Loved Me_ (02.27.21)**
+
+For some reason this is the first movie in the franchise that I don't have much to say about, other than "it's fine." Jaws is probably the most memorable villain henchman so far, even if they seem to have crafted him to be exactly that (he never even dies!).
+
+7/10
 
 **11) _Moonraker_ ()**
 
