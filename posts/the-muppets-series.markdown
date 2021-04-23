@@ -1,6 +1,6 @@
 ---
 title: The Muppets Series
-published: 2021-11-11
+published: 2021-04-04
 ---
 
 We watched these out of chronological order, because honestly the order doesn't matter for The Muppets.
