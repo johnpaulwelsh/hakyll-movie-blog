@@ -18,3 +18,9 @@ There's something magical about the Muppets that's really evident in this movie,
 This movie also feels very much from the 1970s. None of the celebrity cameos are cute the way they are in later movies, they're funny as heck but there's a messiness and rudeness about them that's really interesting. I also liked the reliance on non-digital special effects, like having a giant pie hit the car or using forced perspective to make Animal look Giant near the end. Or especially all the scenes where Fozzie is seen driving the car, it really just looks like a puppet is operating the vehicle instead of some remote-control thing or a human sitting under him using the pedals.
 
 9/10
+
+**_The Muppets Take Manhattan_ (04.04.21)**
+
+The plot is fine, the songs are fine, the cameos are fine. But it's definitely funny.
+
+7/10
