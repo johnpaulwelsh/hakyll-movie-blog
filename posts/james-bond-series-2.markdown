@@ -31,7 +31,21 @@ For some reason this is the first movie in the franchise that I don't have much 
 
 7/10
 
-**11) _Moonraker_ ()**
+**11) _Moonraker_ (04.25.21)**
+
+Some of the best set pieces in the whole Bond franchise so far. The skydive and the ambulance ride in particular are my favorites, but honestly the action sequences basically never stop and each one is memorable in some way.
+
+But man, this movie is STUPID. Unlike some of the late-Connery-era movies that are stupid because they're gaudy and in bad taste, this one is stupid because it doesn't feel any shame about ramping it up to the next level every five minutes. The fight in the glass factory and all the space stuff at the end are perfect examples of what I mean.
+
+However, I'd like to think this is the first movie where they knew to make fun of themselves a little. They must have read Ian Fleming's original story and been like, "We can't do this one yet, it's too idiotic," so they put it off until number 11, and then just want all-out with it. There's something to admire in that.
+
+And like... Jaws and Mrs. Jaws!!! What a wonderfully stupid plot development, I loved every bit of it.
+
+But what happened to the lovers on the spacecraft? I hope they didn't die.
+
+There are also probably too many girls in this one, even though most of them just look pretty in the background whenever Drax is involved in a scene it still felt like a larger cast of beauties than was really necessary.
+
+8/10
 
 **12) _For Your Eyes Only_ ()**
 
