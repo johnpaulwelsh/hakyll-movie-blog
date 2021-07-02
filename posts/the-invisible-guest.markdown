@@ -1,0 +1,18 @@
+---
+title: Contratiempo (The Invisible Guest)
+published: 2021-06-30
+---
+
+The rare closed-room mystery story where the big twist at the end has almost nothing to do with the way the culprit got away with it.
+
+The majority of the movie, where they are recounting the first "version" about what happened and how it went down, tends to drag a little. Since I knew going in it would feature some kind of closed-room mystery, and once the first scene basically confirmed it, it made much of the characterization and drama feel unnecessary as the story went on. Sort of like how in a Golden Age detective novel, they spend some time establishing the quirks of the detective and having long banter scenes with friends and acquaintances, when all you want to do is move on to the clues and detective work.
+
+Then, right around when the laywer woman looked out the window the first time, I remembered that Daniel's parents had met in a theater troupe. For the entire rest of the movie, I had made up my mind that the woman was really Daniel's mother in disguise. This put a weird spin on all the alternative theorizing and the gotcha moments such as the doctored photo, because I was not being taken for the "ride" the same way the filmmakers were going for.
+
+Once I knew that the woman was an impostor, the "how" of the closed-room mystery didn't seem to matter, and to be honest they are still all plausible theories. For some reason his final admission of guilt didn't strike me as the final nail in the coffin, but I guess it must be. It was all over for him once he admitted that Daniel wasn't dead when he pushed the car into the lake, so even from the mother's point of view the role of criminal mastermind and events inside the hotel room were almost irrelevant. As long as she got him to agree to some version of the story, that was enough for her purposes.
+
+Sometimes the characters talk so fast I didn't have time to read all the subtitles. It never made me miss anything important though. Also, something about the movie felt like it was a TV episode or made-for-video movie or something. Maybe it's because I was watching it on Netflix.
+
+In total, the movie loses points because I called the twist well before it happened, but I can't really fault it because if I had seen this as one of my first twist-ending movies, I would have lost my mind at how cool it was.
+
+7/10
