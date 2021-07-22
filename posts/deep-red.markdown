@@ -1,5 +1,5 @@
 ---
-title: Deep Red
+title: Profondo rosso (Deep Red)
 published: 2021-07-01
 ---
 
