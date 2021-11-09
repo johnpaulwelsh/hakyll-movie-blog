@@ -11,9 +11,9 @@ I think it was a great idea to have two mermaid sisters to follow, instead of ju
 
 I really like how some scenes (especially the musical ones) are almost shot like stage musical sequences, with a lot of symbolic and non-literal imagery. Especially when the band members are lying around catatonic in the apartment, and the stripper who works at their club comes around and gives them all IVs to get them up and working again instead of wallowing in the drama of what just happened (throwing the girls back to sea).
 
-There are still some scenes that I didn't really understand, even with trying to consider them as mostly symbolic and not literal. The main one was when Golden and the policewoman were playing around with each other in the street and then in a bed. Maybe it just establishes that there's a danger in being a murderous
+There are still some scenes that I didn't really understand, even with trying to consider them as mostly symbolic and not literal. The main one was when Golden and the policewoman are playing around with each other in the street and then getting freaky in bed. Maybe it just establishes that there's a danger in being a murderous monster and you're always on the outside of normal society.
 
-I don't know if it was intentional, but the least compelling piece of music in the whole film was the wedding dance song. Totally generic Eurotrash pop with dumb lyrics. And if I'm not mistaken, the musical group in the film that performs it is the same name as the group who composed all the music. Maybe this is a self-own?
+I don't know if it was intentional, but the least compelling piece of music in the whole film was the wedding dance song. Totally generic Eurotrash pop with dumb lyrics. And if I'm not mistaken, the musical group in the film that performs it is the same name as the group who composed all the music for the film. Maybe this is a self-own?
 
 Also, the punk dude is named Triton? That honestly made me groan.
 

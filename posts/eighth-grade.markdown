@@ -5,7 +5,7 @@ published: 2019-01-15
 
 _Eighth Grade_ is a wonderful, wonderful movie.
 
-My age is probably about the midway point between Kayla's and her dad's, and it's super interesting to watch the movie from that point of view because I recognized parts of both sides.
+My age is probably about the midway point between Kayla's and her dad's, and it's super interesting to watch the movie from that point of view because I recognized elements of both sides.
 
 I didn't grow up with smartphones and social networking in the same way as kids nowadays have, but all the little details of how technology exists and how young teenagers interact with it was totally spot-on from what I can tell. Things like the glow of a phone on your face at night, the way that checking your news feeds is an automatic reaction more than a conscious effort, and even the way that getting in front of a camera completely opens up your personality, were all captured with genuine understanding and affection. And Kayla's anxieties were even more spot-on. I literally felt the same way she did whenever her dad came into the room while she was watching or reading something mature, or when she got to the pool party and kind of just wallflowered her way into the corner of the pool.
 

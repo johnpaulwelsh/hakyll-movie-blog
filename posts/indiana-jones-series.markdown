@@ -9,11 +9,11 @@ There are so many instant-classic scenes that it's impossible to see them in the
 
 8/10
 
-**2) _Temple of Doom_ (07.25.20)**
+**2) _The Temple of Doom_ (07.25.20)**
 
-This movie is so bonkers. I feel like Lucas and Spielberg were like "hey remember how all those old adventure serials were super racist and drawn out with the action scenes? Let's make an homage to them by outdoing them on every front!"
+This movie is so bonkers. I feel like Lucas and Spielberg were like, "hey remember how all those old adventure serials were super racist and drawn out with the action scenes? Let's make an homage to them by outdoing them on every front!"
 
-I don't actually think this movie is racist, at least not in the obvious ways. The death cult is clearly not representative of any mainstream Indian religious practices, and the poor villager at the beginning don't come across as requiring white saviors so much as requiring anybody brave enough to venture into the unknown.
+I don't actually think this movie is racist, at least not in the obvious ways. The death cult is clearly not representative of any mainstream Indian religious practices, and the poor villagers at the beginning don't come across as requiring white saviors so much as requiring anybody brave enough to venture into the unknown.
 
 Short Round is a gift from God, man he is so funny and cute in this movie.
 
@@ -33,7 +33,7 @@ I like the relatively smooth and slow pace of this movie, it feels very cozy.
 
 **4) _The Kingdom of the Crystal Skull_ (07.27.20)**
 
-If _Temple of Doom_ was bonkers, this one was utterly ridiculous.
+If _The Temple of Doom_ is merely bonkers, this one is utterly ridiculous.
 
 The character-based interactions are probably the strongest part of this movie. Indy and Mud are hilarious together, and Miriam showing back up is a delight. Also John Hurt acting like a crazy old man is always good in my book.
 

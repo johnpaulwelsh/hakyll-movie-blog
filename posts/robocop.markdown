@@ -9,7 +9,7 @@ Like many violent 80s movies, there are some parts that are just sickeningly bru
 
 Robocop himself is pretty ridiculous. Lumbering around and speaking like a robot, I'm surprised they were able to make him seem cool and not just a slick Frankenstein's monster.
 
-Every piece of satire was hilarious. I especially liked how the insane news broadcasts build the dystopian future world in such an efficient manner. The commercials felt like segments from _UHF_, especially the nuclear war board game. My favorite one is the car being called 6000 SUX and only getting 8.5 mpg.
+Every piece of satire is hilarious. I especially liked how the insane news broadcasts build the dystopian future world in such an efficient manner. The commercials feel like segments from _UHF_, especially the nuclear war board game. My favorite one is the car being called 6000 SUX and only getting 8.5 mpg.
 
 There are some pretty interesting technical details too, like how they show the transition-to-Robocop process entirely through Murphy's TV-screen eyesight as he's becoming a cyborg. That's the kind of touch that makes it clear that the director was not phoning it in on this movie.
 

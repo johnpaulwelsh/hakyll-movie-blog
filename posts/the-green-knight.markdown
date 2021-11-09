@@ -3,7 +3,7 @@ title: The Green Knight
 published: 2021-08-01
 ---
 
-The movie really nailed the feeling of this tale being very very old, and not just a modern invention set in a historical time. Makes me really want to read the original poem, to see how much of the story is spot-on and how much is artistic license. I would not be surprised if the plot points were all identical, but they just differed in presentation.
+The movie really nailed the feeling of this tale being very very old, and not just a modern piece of fiction set in a historical time. It makes me really want to read the original poem, to see how much of the story is spot-on and how much is artistic license. I would not be surprised if the plot points were all identical, but they just differed in presentation.
 
 Psychedelic is the right word for it. I've never seen unnatural color used in a naturalistic setting so effectively. Lots of scenes feel like they're going to spin off the rails and start being crazy for their own sake, but by the end of the movie pretty much everything that happens has a purpose and fits into the greater story.
 
