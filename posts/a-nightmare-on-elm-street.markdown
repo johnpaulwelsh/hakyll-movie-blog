@@ -9,7 +9,7 @@ I already talked to my friend Rob about the film so I don't have a lot of concre
 
 * Fred Kreuger is hilarious, and his stretchy-arms in his first major scene are the funniest thing I've seen in a while.
 
-* Tina is a bitch and has the best death scene ever.
+* Tina is a jerk and has the best death scene ever.
 
 * Nancy is one of my favorite horror protagonists ever. She's smart, funny, and adorable.
 
