@@ -9,6 +9,6 @@ The framing device of the whole story being a flashback was unexpected, and for 
 
 I guess overall I am confused by the characterization of Sally, she's the only one who I never really understood her motivations or feelings, because they often seemed to contradictory.
 
-On the other hand, there were a lot of moments that had a good amount of power and artistic flair to them, especially the attempted-murder scene and Alexander sitting in his room afterwards. The music was also pretty good, whenever it did show up. And all the other main characters had compelling personalities and I enjoyed watching them. Similar to _Kris_, this movie somehow convinced me to care about these characters who have a small story to tell, nothing grand or deep or important.
+On the other hand, there were a lot of moments that had a good amount of power and artistic flair to them, especially the attempted-murder scene and Alexander sitting in his room afterwards. The music was also pretty good, whenever it did show up. And all the other main characters had compelling personalities and I enjoyed watching them. Similar to _Crisis_, this movie somehow convinced me to care about these characters who have a small story to tell, nothing grand or deep or important.
 
 5/10
