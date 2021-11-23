@@ -23,4 +23,6 @@ Also there's something endearing about how much the movie gives off the vibe of,
 
 The ending scene is pretty outstanding. Reconstructing that creepy painting as a real location in the film is one of the legacies of this movie, I am convinced.
 
+The way I see it, if you're going to make a horror movie with the barest level of storytelling just as an excuse to get to the scares, you should make me want to actually see what's scary. But the extended shots of spiders crawling and gross boiling faces and ripped flesh just aren't up my alley very much.
+
 6/10
