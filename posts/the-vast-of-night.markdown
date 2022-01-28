@@ -1,0 +1,20 @@
+---
+title: The Vast of Night
+published: 2022-01-27
+---
+
+A simply incredible film. I think this movie was made specifically for me, it made me feel that sense of wonder and can't-look-away that I once got from The X-Files or the first season of the Limetown podcast. It felt like I was really beholding something out of this world, or being let in on a secret. I almost teared up during the interview with the old lady because of how excited I was.
+
+That tracking shot from the switchboard to the school and then to the radio station is absolutely mind-blowing. It must be CGI-enhanced at least, but I could not spot anything fake-looking even though I was looking hard.
+
+The old technology was mesmerizing to see, like the switch board and radio station and tape recorders. It's ironic that they talk about future technology with such excitement and incredulity, but as someone living in their future, I'm more amazed at their time's technology than at my own.
+
+I could have watched 90 whole minutes of just Everett and Faye walking cutely down the road and bantering.
+
+The framing device of the "paradox theater" episode is a ballsy maneuver. It's constantly reminding you that this is a pulp sci-fi tale, but when they zoom in to the TV and play the story straight, it becomes utterly convincing and you forget right away that there's a TV showing you this story. The filmmakers seem simultaneously in love with the story and also appreciative of the fact that there's a long history of these kinds of stories being totally bogus and sensational, for entertainment purposes only. I think that comes through the most during Billy's call and the old lady's interview. While Billy tells his story the visuals often fade out and in, so there are some portions where you only hear his voice, just like our protagonists are doing. It's very immersive. And the camera cannot look away from the old lady for almost her entire story, but when it does, it looks at the microphone they are using to record her, almost as if to say "this is a performance, do you believe her now? Do you believe us now?"
+
+You could say the ending is a bit unsatisfactory, but honestly no ending could ever live up to the build-up. I think it's perfectly fine, it still maintains the sense of wonder and mystery without being too artistically ambiguous or subversive of the genre conventions. It almost feels like the filmmakers wanted a poster-ready pose of Everett, Faye, and the baby all looking up into the sky like it's some kind of 1964 World's Fair illustration, and the whole ending of the movie was written a way to just set up that shot.
+
+Also I was surprised to learn that the actress who plays Faye was born in 1997? She looks legitimately 15 or 16, but she must have been at least 20 during filming.
+
+10/10
