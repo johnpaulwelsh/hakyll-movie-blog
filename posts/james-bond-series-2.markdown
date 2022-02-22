@@ -1,6 +1,6 @@
 ---
 title: James Bond Series Part 2
-published: 2021-04-25
+published: 2022-02-21
 ---
 
 **8) _Live and Let Die_ (02.14.21)**
@@ -46,3 +46,9 @@ But what happened to the young lovers on the spacecraft? I hope they didn't die.
 There are also probably too many girls in this one, even though most of them just look pretty in the background whenever Drax is involved in a scene. It still feels like a larger cast of beauties than is really necessary.
 
 8/10
+
+**_For Your Eyes Only_ (02.21.22)**
+
+Dull. I liked the skiing, rock climbing, and shark stuff. But even most of thst felt derivative of earlier Bond movies.
+
+5/10
