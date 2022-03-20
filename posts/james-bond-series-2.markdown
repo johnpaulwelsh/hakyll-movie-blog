@@ -1,6 +1,6 @@
 ---
 title: James Bond Series Part 2
-published: 2022-02-21
+published: 2022-02-25
 ---
 
 **8) _Live and Let Die_ (02.14.21)**
@@ -47,8 +47,14 @@ There are also probably too many girls in this one, even though most of them jus
 
 8/10
 
-**_For Your Eyes Only_ (02.21.22)**
+**12) _For Your Eyes Only_ (02.21.22)**
 
 Dull. I liked the skiing, rock climbing, and shark stuff. But even most of thst felt derivative of earlier Bond movies.
 
 5/10
+
+**13) _Octopussy_ (02.25.22)**
+
+Rip roaring good time, a vast improvement over the last one. It's all the humor of Diamonds are Forever but with not as much stupidity. The circus setting allows for a lot of that to make sense while still being wildly entertaining. Although, the plane fight might be the least plausible thing in a bond movie ever since Moonraker. It's a shame this movie has an unspeakable title.
+
+10/10
