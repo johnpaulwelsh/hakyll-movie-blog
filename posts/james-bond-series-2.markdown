@@ -1,6 +1,6 @@
 ---
 title: James Bond Series Part 2
-published: 2022-02-25
+published: 2022-04-09
 ---
 
 **8) _Live and Let Die_ (02.14.21)**
@@ -49,7 +49,7 @@ There are also probably too many girls in this one, even though most of them jus
 
 **12) _For Your Eyes Only_ (02.21.22)**
 
-Dull. I liked the skiing, rock climbing, and shark stuff. But even most of thst felt derivative of earlier Bond movies.
+Dull. I liked the skiing, rock climbing, and shark stuff. But even most of that felt derivative of earlier Bond movies.
 
 5/10
 
@@ -58,3 +58,17 @@ Dull. I liked the skiing, rock climbing, and shark stuff. But even most of thst 
 Rip roaring good time, a vast improvement over the last one. It's all the humor of Diamonds are Forever but with not as much stupidity. The circus setting allows for a lot of that to make sense while still being wildly entertaining. Although, the plane fight might be the least plausible thing in a bond movie ever since Moonraker. It's a shame this movie has an unspeakable title.
 
 10/10
+
+**14) _Never Say Never Again_ (04.09.22)**
+
+Better than I expected. The only similarity to _Thunderball_ is stolen nukes, underwater fight, and Domino, and the rest of the movie is basically its own thing.
+
+Seeing Sean Connery's Bond as a kind of old-fogey being brought back into the field is fun and entertaining.
+
+Only folks in 1983 would consider it acceptable to have a fleet of arcade boxes at a casino. And the dumb polygon shooter game... such an epic gamer moment. I couldn't believe my eyes.
+
+The music kind of stands out as not being the classic tunes we all know and love, but it functions fine nonetheless. There are some melodies in the second half that are legitimately experimental as far as action movie scores go.
+
+Also, Rowan Atkinson! My wife basically screamed when Johnny English showed up in the flesh.
+
+8/10
