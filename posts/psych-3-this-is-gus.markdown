@@ -1,5 +1,5 @@
 ---
-title: Psych 3: This is Gus
+title: "Psych 3: This is Gus"
 published: 2022-01-03
 ---
 
