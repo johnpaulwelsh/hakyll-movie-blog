@@ -1,5 +1,5 @@
 title: Tenebrae
-published: 2022-01-15
+published: 2023-01-15
 ----
 
 A pretty solid movie from Argento, not the best but not the worst. I think the journey is much better than the destination with this one - there are some really excellent set pieces and moments in the first two thirds of the movie, but the payoff is just a little too convenient for me to feel emotionally invested in figuring it all out after it's been revealed. Two culprits can work, and hero-is-the-culprit can work, but combining them is a too confusing and feels cheap.
