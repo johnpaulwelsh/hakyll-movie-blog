@@ -1,6 +1,6 @@
 ---
 title: A Man for All Seasons
-published: 2018-05-24
+published: 2022-05-24
 ---
 
 A good script, turned into a movie, but that's kind of it. Not many effective instances of filmic art, except for the camera following Thomas into the final courtroom scene. Everything else is just serviceable.
