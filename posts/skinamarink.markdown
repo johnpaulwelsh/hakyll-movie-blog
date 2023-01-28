@@ -1,5 +1,7 @@
+----
 title: Skinamarink
 published: 2023-01-27
+----
 
 Edward Ball is an evil man.
 

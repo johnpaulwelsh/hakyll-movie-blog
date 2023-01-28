@@ -4,7 +4,7 @@ title: Contact
 
 GitHub page: <a href="https://github.com/johnpaulwelsh">https://github.com/johnpaulwelsh</a>
 
-Email: <a href=mailto:wearing2raincoats@gmail.com>wearing2raincoats@gmail.com</a>
+Email: <a href=mailto:johnpaulw@protonmail.com>johnpaulw@protonmail.com</a>
 
 Image credits:
 <ul>
