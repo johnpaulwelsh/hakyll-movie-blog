@@ -1,0 +1,20 @@
+----
+title: Licorice Pizza
+published: 2023-05-29
+----
+
+I guess I'm a sucker for period pieces set in the 70s in California.
+
+There's something about Paul Thomas Anderson that can make a small story feel big. The same thing happened in _Phantom Thread_.
+
+I think this movies does an amazing job of investigating the concept of maturity. Gary and Alena both seem to be in a tug-of-war between youth and adulthood, and they're both pretty terrible at coming out on top in the game. Pinball, water beds, silly acting gigs on one side. Movie big-wigs, careers, and politics on the other. I bet PTA wanted to use eaely 1970s California as a place to stage that kind of back-and-forth, because it seems like American culture was stuck in the middle too. Maybe I'm reading into this, but the scene where the news is covering the gas embargo seems like a microcosm of the whole theme. Gary is reading the newspaper to see ads for pornos coming to theaters, and Alena is reading about the embargo. But she lords it over his head that he doesn't know what's going on in the world around him, as if she's all that much better. It's like America has its head in the sand of entertainment and pleasure while the rest of the world is tossing us around like a beanbag. But the common thread between them is that the gas embargo screws up their business plans. The tether is forcing youthful ignorance and maturity to move forward together.
+
+The music was fantastic, of course. I also liked that so many scenes were shot in mirrors or through glass window panes, especially with bright lights reflecting and obscuring things. Also the smoke and visuals in general during the motorcycle jump scene was amazing, that was the kind of wow-factor that I usually see in PTA movies.
+
+That reminds me, the scene in the bar with Jack Holden was also a microcosm. She's trying to sit with the big boys and lord it over Gary that he's just a kid, but she also doesn't get what the heck they are going on about. She can't even cozy up to Holden without him going on borderline war flashbacks and bring a braggy jerk. So she got humbled there too - neither Alena nor Gary know how to navigate the "grown-up" world because their role model for that lifestyle is weirdo old movie stars and confused young people.
+
+I was not bothered by the age gap, though I was aware of it the entire time and I think it's supposed to weigh on your mind as an audience member. The ending is not a pure happy ending because we still know that neither of these kids are mature, truly mature. I do feel bad for anyone who couldn't enjoy the movie due to the age gap. But I strongly doubt that PTA views this as a romance film on the same moral standing as other great romances, even in his own filmography.
+
+9/10
+
+
