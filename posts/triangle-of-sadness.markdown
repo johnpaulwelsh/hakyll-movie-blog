@@ -1,6 +1,7 @@
 ----
 title: Triangle of Sadness
 published: 2023-02-26
+----
 
 Despite the fact that I enjoyed watching this movie for the most part, there are a lot of aspects to it that didn't sit well with me. I think it's way too obvious that the film wants to dunk on disconnected rich people, and although sometimes it's done in a really funny way that shows the people on the boat are privileged and selfish, other times it's just punishing them in a not-that-funny way (the vomit, obviously, but also somewhat their experience on the desert island).
 

@@ -1,6 +1,6 @@
 ----
 title: "Kung Pow: Enter the Fist"
-published: 04-22-2023
+published: 2023-04-22
 ----
 
 Unbelievably stupid, of course, but most of it is my kind of stupid. The CGI implanting of Steve into the existing scenes is pretty well done most of the time. The CGI everywhere else is terrible, but kinda like intentionally so, so I still like it. The cow fight is just lame and I feel bad for anyone whose first memory of this movie is that scene.
