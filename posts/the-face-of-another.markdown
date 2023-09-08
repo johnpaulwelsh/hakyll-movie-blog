@@ -1,0 +1,31 @@
+----
+title: Tanin no kao (The Face of Another)
+published: 2023-08-31
+----
+
+This movie is awesome.
+
+The little bursts of surrealism are pretty great, injecting just a bit of weirdness into the story at seemingly random moments. Over time the doctor's office becomes more and more alien and freaky, even when nothing is changing you just start noticing weird stuff like how there don't seem to be any walls, or that big ear in the middle of the floor. And the way the crowd of people at the end all have no faces is very anime / animation in style, like if it happened in the middle of _Monogatari_ nobody would bat an eye.
+
+The subplot of the burn-victim girl is almost completely incomprehensible, but I don't think it bothers me too much). Like, incest? Really? But I definitely think post-war anxiety factors in to it, there are hints that she lived in Nagasaki when the bombs dropped which is how she got the way she got. It almost felt like a counterpoint to the main story, like "here's another way that disfigurement can mess with your life to compare against." But again I really don't know what was going on in that storyline. The brother turning into a slaughtered pig at the end is a nice touch though.
+
+I found this movie really compelling, almost like a modern movie like _Gone Girl._ The conversations between the doctor and the patient are some of the best scenes for sure, especially any time they go to the German bar (another post-war thematic?) The way the main character talks at the beginning is almost unrealistically cold and nasty, but then I remember that folks who get disabled often change their personality as a result of the trauma, and make it really hard for their loved ones to stand their company at times.
+
+I could almost bring up every scene and talk about how good it is, but that would be redundant. I'd rather just watch it again than read my own summary of the story scene-by-scene.
+
+I was fascinated by one of the early shots of the film, where the main character is walking through a crowd the wrong direction. It really feels like he's being as obtuse and obstructive in the crowd as possible, but I don't think that's actually something the actors were making happen, I think it's all in the camera angle. If we followed him directly behind, I bet a lot of the crowd would be walking around him at a comfortable bubble in front of him. But at the angle we do watch the scene from, it feels like everyone is really cramped, and that the main guy is getting in people's way on purpose. Then you look at their faces because you expect to see reactions to his weird spectacle, and in my case I did see some! But who knows if it was really there, maybe I was tricked into thinking it.
+
+The legs-under-table scene is amazing, I can't believe how sensual and uncomfortable they made it feel.
+
+This is the best full-length _Twilight Zone_ episode ever.
+
+So at the end, the main guy becomes a real boy, right? I love that.
+
+The acting when he first puts on the mask and he's not used to it yet is absolutely phenomenal. It really looks like a guy who has something else on top of his face.
+
+There are a lot of mysterious conversations at the beginning which don't really let you in completely on what the patient and doctor are planning. So it's even creepier when the doctor starts predicting that the mask will take on a personality of its own, because you aren't sure whether the patient was trying to go for that or merely trying to do something else.
+
+The idea of seducing your own wife in the guise of someone else is really interesting, but I always felt that the wife wouldn't be so dull as to play into his plan unwittingly. So when it's revealed that she went along with it almost like a kinky game, it really breaks your heart because it shows that the main character is just a nasty guy who wants proof that his wife hates him, which will always end in tragedy no matter how it ends.
+
+9/10
+
