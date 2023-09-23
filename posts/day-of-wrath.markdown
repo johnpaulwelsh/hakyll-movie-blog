@@ -1,0 +1,15 @@
+----
+title: Vredens dag (Day of Wrath)
+published: 2023-09-22
+----
+
+I find this movie underwhelming because it seems so straightforward, but I don't know if that's just because I'm prejudiced to assume everything is at face value. I believe that sin and the Devil are active forces in this world, and I couldn't help but see this story as a tragic display of how sin can lead to destruction and the corruption of the soul. I felt very strongly for the character of Martin because he demonstrates the struggle between infatuation with Anne and the weight of guilt on his soul. In that sense Anne is basically the villain of the story, and Merete is totally right about her.
+
+But even if you dismiss the spiritual reality above, does anything really change? Can you read this as a sympathetic romance between Martin and Anne, which is doomed to fail due to the close-mindedness of everybody else? Is Absalom foolish for agonizing over his decision to not rescue Marte while sparing Anne's mother? Is Merete just a nasty old woman who gets in the way? I think the answer to all of that is no. In which case the movie is less complex than I wish it were, I guess. Whether you are a believing Christian or not, I think the basic content and emotional weight of the story is the same either way. Anne begins an illicit affair with her stepson, her husband is legitimately emotionally conflicted about sparing one accused witch but denouncing another, and Anne might as well be responsible for Absalom's death because it was convenient for her selfish lust that he would die (whether or not she's supernaturally responsible for it in the end). It feels strange to say that I'm disappointed that a movie can't be easily read as ambiguous, but I guess that's how I feel. It's a straightforward morality play, which is well done in most ways, but also feels shallow.
+
+On a technical level though, it's really good, especially the acting and editing. Marte is portrayed with an impressive sense of weight. I like the way she walks very slowly, and how she looks up and away into the camera with high drama in her eyes and a wavering voice. Seeing her in the interrogation scene was pathetic and made me feel for her. I also found it impressive how they could make Anne blossom into a conivving and sultry woman just by altering her outfit and making her look at Martin a certain way. There are some hot and heavy scenes in this movie even without any actual sexual action happening, just because Anne is showing it so much in her motion and voice. And I really liked how parallel action is intercut together, like Marte running for the rectory intercut with the family inside, or Martin and Anne frolicking around in the sun while Absalom is pacing and wringing his hands.
+
+I couldn't help but remember back to _Smiles of a Summer Night_ when I watched Martin, because that movie also has a sexually repressed and sulky young priest character.
+
+7/10
+

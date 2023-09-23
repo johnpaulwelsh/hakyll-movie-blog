@@ -1,5 +1,5 @@
 ----
-title: (The Quiet Girl)
+title: An Cailín Ciúin (The Quiet Girl)
 published: 2023-09-21
 ----
 
