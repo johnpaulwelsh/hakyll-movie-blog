@@ -1,0 +1,24 @@
+----
+title: The Cabin in the Woods
+published: 2023-11-03
+----
+
+Watched over two nights, first night with Karis and second without. She couldn't handle the gore and actual horror content.
+
+I do think this movie is quite clever and enjoyable. Obviously Marty is hilarious, and Bradley Whitford does his usual smarmy self and brings a lot of what makes the office scenes work so well. I don't have much to say about the merits of the movie, it's funny and smart while also having all the stuff you'd want to see in a movie where dumb teenagers go to a cabin in the woods.
+
+But I wonder if this movie can also be read as an allegory about the state of horror entertainment in the mid 2010s, and a prediction of what was to come in the next 10 years.
+
+Imagine the office workers are the makers of horror movies, and their fans are the Ancient Ones. Everything about the setup for sacrificing this group of five young people  is just playing around with cliches. I mean the entire cellar scene is just a parade of tried-and-true horror movie tropes. The horror filmmaking industry is thus a well-oiled machine pumping out traditional storylines that hit all the right bullet points, but maybe they vary it up just a little to make sure you haven't seen the same thing twice in a row.
+
+Meanwhile, who is being appeased here? The fans, the viewers, the Ancient Ones. They are a dangerous and unruly bunch, and the only way to keep them at bay is to give them the same generic crap and hope they are pleased. You never want to piss off a horror movie fan. I have learned this through a lot of lurking on movie-related subreddits, especially those related to physical media. For some reason _Child's Play 4_ is a 4K-UHD release that lots of people are chomping at the bit for, and they'll pay top dollars for the original slipcover on that release. But if you mess up the transfer or release it only in HD format, you will see the most entitled and angry people this side of the gaming industry. And don't even get me started on if a horror sequel becomes "woke". You'll see some apologists about how it's a cool twist on the formula, but just as many people come out of the woodwork complaining that it's not _right_.
+
+So that leads to the question: why in this movie did every sacrifice machine fail? If horror fans are angry and their anger can be quelled only by horror movie cliches and tropes played up exactly the right way, then why in the plot of _The Cabin in the Woods_ do the appeasers fail? I didn't notice this the first time I watched this movie, nearly 10 years ago, but it's implied that there is internal sabotage involved with the lack of tunnel demolition. Could that mean somebody "up top" is getting sick of the same old story? Is the horror industry aching for a change in the plot, even if that means annoying the fanbase that keeps them alive?
+
+What if it was the Ancient Ones who sabotaged the sacrifice? What if they managed to get Marty to smoke mind-enhancing weed so that he'd be immune to the machine's tricks? And what if the failed demolition was not due to Marty messing with the wires, but instead due to direct interference by an agent of the Ancient Ones working on their behalf?
+My grand theory is that this movie is a canary in the coalmine of the wave of "elevated horror" that we saw in the last half of the 2010s, and through the first half of the 2020s (so far). The well-oiled machine of horror movies got overturned by the fans because the became sick of "the fans" holding the medium hostage, constantly begging for the same old slashers, ghost stories, and gore, and this new crop of horror fans wanted something surprising, dark, and most importantly, nihilistic. That's the only explanation I can think of for the bleakness and "lol nothing matters" energy of this movie's finale. I've seen other horror movies with mean-spirited endings where nobody gets out alive, but rarely does the film commit to a total planetary annihilation. But compare the tone of this ending (minus some of the humor) with the way _Annihilation_, _Midsommar_, or _Hereditary_ ends. The sense of hopelessness, personal transformation, and punishment in those movies is hardly similar to the way _The Ring_ or _28 Days Later_ proceed.
+
+So my theory is that Joss Whedon and Drew Goddard wrote this movie as a way to say, "hey horror movie fans, don't you hate sucky generic horror trash? Ask for something better!" And what were some of the most unique and influential horror movies of the next few years? _The Babbadook_, _The Witch_, _Hereditary_. "Elevated horror", A24's bread and butter.
+
+9/10
+
