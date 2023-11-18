@@ -12,3 +12,16 @@ Christopher Walken is kind of a great Bond villain, but part of the joy is to se
 The girls in this movie are more involved as actual characters compared to the usual Bond Girls, and luckily Stacey is not a total idiot like can sometimes happen with the nice-girl blonde in these movies.
 
 7/10
+
+**16) _The Living Daylights_ (11.16.23)**
+
+I usually like monogamous Bond movies, where he's mostly wooing one sweet girl and there aren't a bunch of honies hanging around, and this is no exception.
+
+The whole ending is just great. It was interesting to have an Afghanistan side plot which turned the movie into somewhat of a western for a minute. The plane with the bomb on it is one of the highlights from this last set of Bond movies.
+
+Tim Dalton is just okay as Bond, a little too stuffy for me. Roger Moore and Sean Connery are more suave, Dalton acts like things are happening to him rather than him being in charge of the situation.
+
+The car chase in Austria is hilarious, exactly the right balance of goofy and cool.
+
+8/10
+
