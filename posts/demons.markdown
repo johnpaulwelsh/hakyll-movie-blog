@@ -1,0 +1,57 @@
+----
+title: Dèmoni (Demons)
+published: 2023-10-05
+----
+
+okay so that was one of the coolest probably maybe the coolest movie watching
+experience it really helps to have just the really loud propulsive live band playing
+with the music the now for the movie the movie was awesome like so for the first
+like 30 minutes you were sitting there in a theater with a balcony watching
+people in a theater with the balcony watch a horror movie and you know that
+that's a really interesting effect like it couldn't have lasted a whole time
+obviously and of course the baby stops playing at some point but it was just
+really cool and like occasionally freaky to be in such a mirror image
+situation as the characters were I like that the cast is so would
+ridiculously varied like and with no explanation at all why is a pin there
+with two of his hooves why is why did a man bring his wife on their anniversary
+to see this movie obviously he doesn't give a shit but like there's they just
+gather a bunch of random people and then make them sit there watching this
+other horror movie which is itself bad but like in a very tropey kind of way
+like it's like I would watch that on its own if it was a full-length thing but
+then just the it's very simple like they're not trying to do something like
+complicated here and I really liked like the kind of main characters
+especially George like become superhero by the end but there's no cheesy
+80s transition into that like there's no like I'm gonna rip the sleeves off my
+shirt and now I'm a tough guy and I'm gonna put a band-aid up a bandana on my
+head like Rambo or whatever it's it just like happens like George just becomes
+cool and wheeled to Katana and it's great then you know then as far as the movie
+watching experience like the sound quality of the regular movie was like
+a little bit in and out but definitely not enough to bother me because like this
+is definitely the kind of movie where it doesn't matter what they're saying like
+it could have been in Italian dubbed and I would with no subtitles and I wouldn't
+mind it because it's all about the music the visuals the vibes and just it's
+just so funny like there's a lot of funny parts of the movie and it's not just
+because the audience was laughing a lot because the audience is just a fan of
+glory nonsense so they clap every time it happens like oh man they went crazy
+when that helicopter crashed through the ceiling just because it was so out of
+the blue yeah I don't know like maybe I think in the first 30 minutes you can
+make some kind of argument that the movie is like on it on an on an artistic
+level getting at something by by having the you watch a movie where people are
+watching a movie right like it's what they say that to them is about or what
+seemingly every movie within a movie gets is like this veneer of we're saying
+something really important and interesting because you're watching them and all
+this stuff I don't know if it's like you know thesis statement or anything but I
+did find a cool especially like when the one hooker goes behind the screen and
+is trying to break through it and it's just it was just cool it was just cool to
+see someone go back there like they this movie was not it really went deep into
+the we're in a movie theater angle it they go up into the projection booth and it's
+this particular machine and they go behind the theater and the screen and they
+go into the bathrooms and they go into the atrium and the storage rooms underneath
+it's just it's just really like detail oriented and I loved it and of course
+the music made it even better like I probably would want to see it again but I
+would insist on having the volume really loud because hearing that music kick
+in when a zombie jumps up over onto the balcony it's just like that's what
+makes it for me
+
+9/10
+
