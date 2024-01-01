@@ -1,5 +1,5 @@
 ----
-title: _De sjunde inseglet_ (The Seventh Seal)
+title: De sjunde inseglet (The Seventh Seal)
 published: 2023-12-01
 ----
 
