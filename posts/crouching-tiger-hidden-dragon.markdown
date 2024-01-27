@@ -1,5 +1,5 @@
 ----
-title: _卧虎藏龙_ (Crouching Tiger, Hidden Dragon)
+title: Wòhǔ Cánglóng (Crouching Tiger, Hidden Dragon)
 published: 2023-12-31
 ----
 
