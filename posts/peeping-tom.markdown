@@ -1,6 +1,7 @@
 ----
 title: Peeping Tom
 published: 2024-05-08
+----
 
 A really freaky movie, especially given how old it is. I found myself sympathizing with Mark and also finding him very twisted, which means that his performance is great, but so is the writing. It's obviously trying to make a connection with the experience of watching a lurid horror movie.
 
