@@ -11,4 +11,10 @@ The music is awesome, even when it fades out abruptly or feels totally inappropr
 
 I feel bad for anyone who would get distracted by the terrible lip sync on most characters, they're missing out on a wonderful thriller movie. If _Suspiria_ ends up improving itself in my mind when I get around to a rewatch, then Dario Argento will become one of my favorite new discoveries.
 
+-------------
+
+After seeing the longer version, I can understand why a lot of the scenes were cut, the American cut is so much punchier and cuts to the chase more. But I didn't mind the cut-out scenes, in fact all scenes with Marc and Gianna are amazing and I wish they all remained in the English language version. It was really frustrating to see this in English and Italian flipping back and forth. The subtitles are translating the Italian words, not copying the English I'm hearing, but the subtitles need to be on for the Italian scenes for you to know what they're saying. So for the whole movie I'm bouncing up and down from faces to words, and half the time the words aren't an exact match to the voices!
+
+As soon as Marc has his epiphany in the plaza that Carlo couldn't have killed the psychic, I got chills, even though this was my third viewing. Chills for the whole rest of the movie too. It's a perfect five minutes of cinema.
+
 9/10
