@@ -1,0 +1,17 @@
+----
+title: One Battle After Another
+published: 2025-09-28
+----
+
+It's really good. The overwhelming music in the first act felt a little weird, like the climax of the movie was right at the beginning and it felt unwarranted, but once the time-jump happens everything is pitch-perfect. A dumber action movie would have been half as long, but this is definitely interested in making you mull over the parental, generational, and societal impact of these events on the characters.
+
+The fifteen-year jump is a real whiplash because it makes you realize that everything you saw happened in the past compared to present-day, but it felt so current and modern. Left-wing terrorist groups attacking ICE?
+
+This is some of the best looking footage I've ever seen, probably. Helped a lot by seeing it in IMAX. The nighttime roof run when Bob is escaping and the desert driving near the end especially, just gigantic crisp footage of amazing places in the US.
+
+The car chase at the end over the hills with that music building and building, is phenomenal. I wonder what it says about America that PTA decided to render his climactic chase scene as three cars speeding after each other with shark-attack music playing. Like that could never work in the UK or France, it would be bucolic farmland or suburban roads which would feel so different than this barren crazy desert.
+
+Sean Penn is really amazing, I think he's got a sure path to Best Supporting Actor nomination, maybe even more likely than Dicaprio getting a Best Actor nom. I wasn't sure how I felt about them taking a clearly-assholish military guy and then make him a white supremacist, but it allowed for so many good laugh lines and opportunities for Penn to look nervous that I didn't mind. And what a way to get killed at the end there!
+
+9/10
+
