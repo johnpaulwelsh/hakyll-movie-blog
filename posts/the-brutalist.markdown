@@ -1,6 +1,6 @@
 ----
 title: The Brutalist
-published 2025-01-11
+published: 2025-01-11
 ----
 
 So I'm driving home from seeing the brutalist in Coolidge Corner Theatre in Brooklyn, Massachusetts. It's a beautiful snowy day except that I have to drive through it. I missed the first, let's say, seven minutes of the movie and I also missed maybe the first two minutes of the second act after the intermission. So I came in basically right as Lasla was kind of going through not-Ellis-Island, but like immigration stuff. And the first thing I really paid attention to was that he visited a prostitute and then gave a hug to his cousin as he got on a bus. And then after the intermission, I came in basically as they were having dinner with Elizabeth or whatever you say.
