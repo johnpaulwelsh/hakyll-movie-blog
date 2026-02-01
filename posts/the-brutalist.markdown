@@ -3,22 +3,11 @@ title: The Brutalist
 published 2025-01-11
 ----
 
-So I'm driving home from seeing the brutalist in
-Coolidge Corner Theatre in Brooklyn, Massachusetts.
-It's a beautiful snowy day except that I have to drive through it.
-I missed the first, let's say, seven minutes of the movie and I also missed maybe the first two minutes of the second act after the intermission.
-So I came in basically right as Lasla was kind of going through not Ellis Island, but like immigration stuff.
-And the first thing I really paid attention to was that he visited a prostitute and then gave a hug to his cousin as he got on a bus.
-And then after the intermission, I came in basically as they were having dinner with Elizabeth or whatever you say.
-I'm really glad that I saw it and that I saw it in a theater. What a great theater experience.
-Everyone, firstly, it was a packed house. I needed to look around when the screen got bright to see where the seats were that I could find.
-And there was this nice guy on the end that I couldn't add the climb over other people to get to him.
-But there was a seat back to it, so I took his seat, that seat.
-And it's, I mean, it's very impressive.
-And my, I feel a little bit like I felt after killers of the flower moon where my response was like, I understand that this is great.
-And I liked a good deal of it, but my connection to it was still a little bit at a distance.
-So it, like, that, because that happens all the time with Scorsese movies, not just killers of the flower moon, where I, I don't, like, get into it emotionally.
-And sometimes I don't even get, like, immersed. Like, I think that happens with good fellows every time I watch it.
+So I'm driving home from seeing the brutalist in Coolidge Corner Theatre in Brooklyn, Massachusetts. It's a beautiful snowy day except that I have to drive through it. I missed the first, let's say, seven minutes of the movie and I also missed maybe the first two minutes of the second act after the intermission. So I came in basically right as Lasla was kind of going through not-Ellis-Island, but like immigration stuff. And the first thing I really paid attention to was that he visited a prostitute and then gave a hug to his cousin as he got on a bus. And then after the intermission, I came in basically as they were having dinner with Elizabeth or whatever you say.
+
+I'm really glad that I saw it and that I saw it in a theater. What a great theater experience. Everyone, firstly, it was a packed house. I needed to look around when the screen got bright to see where the seats were that I could find. And there was this nice guy on the end that I didn't have to climb over other people to get to him. But there was a seat back to it, so I took his seat, that seat.
+
+And it's, I mean, it's very impressive. And my, I feel a little bit like I felt after _Killers of the Flower Moon_ where my response was like, I understand that this is great. And I liked a good deal of it, but my connection to it was still a little bit at a distance. So it, like, that, because that happens all the time with Scorsese movies, not just _KotFM_, where I, I don't, like, get into it emotionally. And sometimes I don't even get, like, immersed. Like, I think that happens with good fellows every time I watch it.
 I'm just like, yep, and then this happened. And oh, that's pretty violent.
 But like, it's still good. So like, the brutalist is good.
 I suspect that when I go back and watch other highly acclaimed things from 2024, the brutalist will not be my favorite one.
